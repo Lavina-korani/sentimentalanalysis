@@ -1,0 +1,2 @@
+# sentimentalanalysis
+sentimental analysis project
